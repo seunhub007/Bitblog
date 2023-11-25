@@ -1,7 +1,7 @@
 name: "Continuous Deploy"
 on:
     workflow_run:
-        workflows: ["Integration"]
+        workflows: ["Deployment workflow"]
         types:
             - completed
 jobs:
