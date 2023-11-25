@@ -13,7 +13,7 @@ simple PHP blog
 <!-- * [License](#license) -->
 
 
-## General Informations
+## General Information
 
 A BitBlog ("weblog") is a simple online journal that can be run by a single person and provides regular updates (blog posts) on various topics.
  
